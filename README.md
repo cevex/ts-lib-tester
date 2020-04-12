@@ -50,4 +50,5 @@ Go to application : `cd demo`
 * [Express webpack app](https://medium.com/@binyamin/creating-a-node-express-webpack-app-with-dev-and-prod-builds-a4962ce51334)
 * [webpack - tester](https://github.com/cevex/webpack-tester)
 
+* [Script helper](https://github.com/shelljs/shx)
 
