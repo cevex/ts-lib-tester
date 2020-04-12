@@ -1,0 +1,7 @@
+{
+    "name": "@tester/lib",
+    "version": "1.0.0",
+    "description": "Typecript libary holding utils for node dedicated applications",
+    "license": "UNLICENSED",
+    "private": false
+}

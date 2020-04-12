@@ -1,0 +1,27 @@
+{
+    "name": "@tester/lib",
+    "version": "1.0.0",
+    "description": "Typecript libary holding utils for node dedicated applications",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "shx rm -rf dist/* && tsc && shx cp ./src/package.json ./dist",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "link": "cd dist && npm link"
+    },
+    "private": false,
+    "devDependencies": {
+        "@types/lodash": "4.14.149",
+        "clean-webpack-plugin": "^3.0.0",
+        "shx": "^0.3.2",
+        "ts-loader": "6.2.2",
+        "tslint": "6.1.1",
+        "typescript": "3.8.3",
+        "webpack": "4.42.1",
+        "webpack-cli": "3.3.11",
+        "webpack-merge": "4.2.2"
+    },
+    "dependencies": {
+        "lodash": "4.17.15",
+        "moment": "2.24.0"
+    }
+}
