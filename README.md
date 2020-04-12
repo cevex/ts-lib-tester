@@ -45,10 +45,12 @@ Go to application : `cd demo`
 
 ## Usefull links : 
 
-* [Build a lib with typescript ](https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c?gi=cfc0e0123d83)
+* [Build and publish lib with typescript](https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c?gi=cfc0e0123d83)
 * [Compiling and bundling TypeScript libraries with Webpack](https://marcobotto.com/blog/compiling-and-bundling-typescript-libraries-with-webpack/)
 * [Express webpack app](https://medium.com/@binyamin/creating-a-node-express-webpack-app-with-dev-and-prod-builds-a4962ce51334)
+* [Express typescript app](https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript)
+* [Lib with CI & documentation](https://medium.com/@nilayvishwakarma/build-an-npm-package-with-typescript-by-nilay-vishwakarma-f303d7072f80)
+Utils :
 * [webpack - tester](https://github.com/cevex/webpack-tester)
-
 * [Script helper](https://github.com/shelljs/shx)
 

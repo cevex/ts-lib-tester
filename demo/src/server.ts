@@ -6,6 +6,7 @@ export class LibTesterServer {
 
     private logger = new LoggerService();
     private mathService = new MathService();
+
     // private stringService = new StringService();
 
     public start() {
@@ -24,7 +25,7 @@ export class LibTesterServer {
 
     private openAPI(app: Express) {
         app.get('/', (req, res) => {
-            res.send('Server is running');
+            res.send('Server is running !!');
         });
 
         app.get('/square/:number', (req, res) => {
